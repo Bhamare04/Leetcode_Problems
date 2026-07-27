@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1528-shuffle-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
