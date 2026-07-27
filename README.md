@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1920-build-array-from-permutation](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2126-destroying-asteroids](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
