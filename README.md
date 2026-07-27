@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1859-sorting-the-sentence) |
 | [2126-destroying-asteroids](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1528-shuffle-string) |
+| [1859-sorting-the-sentence](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2942-find-words-containing-character) |
