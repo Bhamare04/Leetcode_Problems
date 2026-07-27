@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1108-defanging-an-ip-address) |
