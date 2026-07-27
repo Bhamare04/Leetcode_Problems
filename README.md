@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
