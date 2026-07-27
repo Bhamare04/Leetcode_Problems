@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
