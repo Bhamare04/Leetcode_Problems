@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3838-weighted-word-mapping](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
