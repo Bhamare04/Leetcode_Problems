@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2126-destroying-asteroids](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
