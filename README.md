@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [2540-minimum-common-value](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
