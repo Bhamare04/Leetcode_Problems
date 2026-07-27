@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2540-minimum-common-value) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
