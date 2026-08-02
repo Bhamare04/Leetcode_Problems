@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1051-height-checker) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -239,4 +241,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
