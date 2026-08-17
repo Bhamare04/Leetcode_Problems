@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
