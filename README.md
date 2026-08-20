@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1046-last-stone-weight) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2126-destroying-asteroids](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
