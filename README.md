@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhamare04/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
