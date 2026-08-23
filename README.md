@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0605-can-place-flowers) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1046-last-stone-weight) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
