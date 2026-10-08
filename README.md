@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0268-missing-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0509-fibonacci-number) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
