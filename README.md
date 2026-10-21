@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1051-height-checker) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhamare04/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bhamare04/Leetcode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
